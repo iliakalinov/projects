@@ -1,0 +1,15 @@
+E:\3курс\Защита информации и\цезаря\2\2\bin\Debug\2.exe.config
+E:\3курс\Защита информации и\цезаря\2\2\bin\Debug\2.exe
+E:\3курс\Защита информации и\цезаря\2\2\bin\Debug\2.pdb
+E:\3курс\Защита информации и\цезаря\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+E:\3курс\Защита информации и\цезаря\2\2\obj\Debug\_2.Form1.resources
+E:\3курс\Защита информации и\цезаря\2\2\obj\Debug\_2.Form2.resources
+E:\3курс\Защита информации и\цезаря\2\2\obj\Debug\_2.Properties.Resources.resources
+E:\3курс\Защита информации и\цезаря\2\2\obj\Debug\2.csproj.GenerateResource.Cache
+E:\3курс\Защита информации и\цезаря\2\2\obj\Debug\2.exe
+E:\3курс\Защита информации и\цезаря\2\2\obj\Debug\2.pdb
+E:\3курс\Защита информации и\цезаря\2\2\obj\Debug\_2.Form3.resources
+E:\3курс\Защита информации и\цезаря\2\2\obj\Debug\_2.Form4.resources
+E:\project\цезаря\2\2\bin\Debug\2.exe.config
+E:\project\цезаря\2\2\obj\Debug\2.exe
+E:\project\цезаря\2\2\obj\Debug\2.pdb

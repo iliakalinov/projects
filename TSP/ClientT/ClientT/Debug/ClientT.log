@@ -1,0 +1,7 @@
+﻿  ClientT.cpp
+e:\3курс\программирование сетевых\tsp\clientt\clientt\clientt.cpp(100): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note:  см. объявление "inet_addr"
+e:\3курс\программирование сетевых\tsp\clientt\clientt\clientt.cpp(118): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note:  см. объявление "itoa"
+  ClientT.vcxproj -> E:\3курс\Программирование сетевых\TSP\ClientT\Debug\ClientT.exe
+  ClientT.vcxproj -> E:\3курс\Программирование сетевых\TSP\ClientT\Debug\ClientT.pdb (Full PDB)

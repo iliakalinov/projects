@@ -1,0 +1,138 @@
+F:\222 курс 2 сем\с #\курсач-2\курсач\bin\Debug\курсач.exe.config
+F:\222 курс 2 сем\с #\курсач-2\курсач\bin\Debug\курсач.exe
+F:\222 курс 2 сем\с #\курсач-2\курсач\bin\Debug\курсач.pdb
+F:\222 курс 2 сем\с #\курсач-2\курсач\obj\Debug\курсач.Form1.resources
+F:\222 курс 2 сем\с #\курсач-2\курсач\obj\Debug\курсач.Properties.Resources.resources
+F:\222 курс 2 сем\с #\курсач-2\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+F:\222 курс 2 сем\с #\курсач-2\курсач\obj\Debug\курсач.exe
+F:\222 курс 2 сем\с #\курсач-2\курсач\obj\Debug\курсач.pdb
+F:\222 курс 2 сем\с #\курсач-2\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+F:\222 курс 2 сем\с #\курсач-2\курсач\bin\Debug\en-US\курсач.resources.dll
+F:\222 курс 2 сем\с #\курсач-2\курсач\obj\Debug\курсач.Form1.en-US.resources
+F:\222 курс 2 сем\с #\курсач-2\курсач\obj\Debug\en-US\курсач.resources.dll
+F:\222 курс 2 сем\с #\курсач-2\курсач\obj\Debug\курсач.Resources.Form2.resources
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\bin\Debug\курсач.exe.config
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\obj\Debug\курсач.exe
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\obj\Debug\курсач.pdb
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\obj\Debug\курсач.Form1.resources
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\obj\Debug\курсач.Properties.Resources.resources
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\obj\Debug\курсач.Resources.Form2.resources
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\obj\Debug\курсач.Form1.en-US.resources
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\bin\Debug\курсач.exe
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\bin\Debug\курсач.pdb
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\bin\Debug\en-US\курсач.resources.dll
+F:\222 курс 2 сем\с #\курсач-2 — 2\курсач\obj\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\bin\Debug\курсач.exe.config
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\bin\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\bin\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\bin\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\курсач.Form1.resources
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\курсач.Resources.Form2.resources
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\курсач.Form1.en-US.resources
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсач-2 — 2\курсач\obj\Debug\курсач.Form2.resources
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\bin\Debug\курсач.exe.config
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\bin\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\bin\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\bin\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\курсач.Form1.resources
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\курсач.Form2.resources
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\курсач.Resources.Form2.resources
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\курсач.Form1.en-US.resources
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\курсач-2 — 2 — копия\курсач\obj\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\готов\курсач\bin\Debug\курсач.exe.config
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\курсач.exe
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\курсач.pdb
+C:\Users\Илья\Desktop\готов\курсач\bin\Debug\курсач.exe
+C:\Users\Илья\Desktop\готов\курсач\bin\Debug\курсач.pdb
+C:\Users\Илья\Desktop\готов\курсач\bin\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\курсач.Form1.resources
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\курсач.Form2.resources
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\курсач.Resources.Form2.resources
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\курсач.Form1.en-US.resources
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\готов\курсач\obj\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\bin\Debug\курсач.exe.config
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\bin\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\bin\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\bin\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\курсач.Form1.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\курсач.Form2.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\курсач.Resources.Form2.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\курсач.Form1.en-US.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья\курсач\obj\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\bin\Debug\курсач.exe.config
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\bin\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\bin\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\bin\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\курсач.Form2.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\курсач.Resources.Form2.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\курсач.Form1.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья — копия\курсач\obj\Debug\курсач.Form1.en-US.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\bin\Debug\курсач.exe.config
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\bin\Debug\курсач.exe
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\bin\Debug\курсач.pdb
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\bin\Debug\en-US\курсач.resources.dll
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Form1.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Form2.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Properties.Resources.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Resources.Form2.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Form1.en-US.resources
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+C:\Users\Илья\Desktop\курсавой проект\Калинов илья со static\курсач\obj\Debug\en-US\курсач.resources.dll
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\bin\Debug\курсач.exe.config
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.exe
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.pdb
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\bin\Debug\курсач.exe
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\bin\Debug\курсач.pdb
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\bin\Debug\en-US\курсач.resources.dll
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Form1.resources
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Form2.resources
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Properties.Resources.resources
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Resources.Form2.resources
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.Form1.en-US.resources
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+D:\222 курс 2 сем\курсачи\курсавой проект\Калинов илья со static\курсач\obj\Debug\en-US\курсач.resources.dll
+E:\3 курс 2 сем\Калинов илья со static\курсач\bin\Debug\курсач.exe.config
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\курсач.exe
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\курсач.pdb
+E:\3 курс 2 сем\Калинов илья со static\курсач\bin\Debug\курсач.exe
+E:\3 курс 2 сем\Калинов илья со static\курсач\bin\Debug\курсач.pdb
+E:\3 курс 2 сем\Калинов илья со static\курсач\bin\Debug\en-US\курсач.resources.dll
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\курсач.csprojResolveAssemblyReference.cache
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\курсач.Form1.resources
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\курсач.Form2.resources
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\курсач.Properties.Resources.resources
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\курсач.Resources.Form2.resources
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\курсач.Form1.en-US.resources
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\курсач.csproj.GenerateResource.Cache
+E:\3 курс 2 сем\Калинов илья со static\курсач\obj\Debug\en-US\курсач.resources.dll

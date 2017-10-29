@@ -1,0 +1,23 @@
+C:\Users\linag\Downloads\lab9_LempelZiv_tar\lab9_LempelZiv\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.exe.config
+C:\Users\linag\Downloads\lab9_LempelZiv_tar\lab9_LempelZiv\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.exe
+C:\Users\linag\Downloads\lab9_LempelZiv_tar\lab9_LempelZiv\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.pdb
+C:\Users\linag\Downloads\lab9_LempelZiv_tar\lab9_LempelZiv\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.csprojResolveAssemblyReference.cache
+C:\Users\linag\Downloads\lab9_LempelZiv_tar\lab9_LempelZiv\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.exe
+C:\Users\linag\Downloads\lab9_LempelZiv_tar\lab9_LempelZiv\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.pdb
+E:\Study\3 course\Системное программирование\Lab 11\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.exe.config
+E:\Study\3 course\Системное программирование\Lab 11\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.exe
+E:\Study\3 course\Системное программирование\Lab 11\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.pdb
+D:\СПР\Lab 11\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.exe.config
+D:\СПР\Lab 11\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.exe
+D:\СПР\Lab 11\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.pdb
+D:\СПР\Lab 11\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.exe
+D:\СПР\Lab 11\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.pdb
+E:\3 курс 2 сем\Новая папка\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.exe.config
+E:\3 курс 2 сем\Новая папка\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.exe
+E:\3 курс 2 сем\Новая папка\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.pdb
+E:\3 курс 2 сем\Новая папка\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.exe
+E:\3 курс 2 сем\Новая папка\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.pdb
+E:\3 курс 2 сем\Новая папка\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.csprojResolveAssemblyReference.cache
+E:\project\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\bin\Debug\LZ_SysProg.exe.config
+E:\project\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.exe
+E:\project\lab9_LempelZiv\LZ_SysProg\LZ_SysProg\obj\Debug\LZ_SysProg.pdb

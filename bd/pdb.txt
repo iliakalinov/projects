@@ -1,0 +1,3 @@
+PDB_BD
+имя-PDB_BD
+пароль-PDB_BD

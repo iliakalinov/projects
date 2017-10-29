@@ -1,0 +1,19 @@
+E:\3 курс 2 сем\курсач бд\proect\proect\bin\Debug\proect.exe.config
+E:\3 курс 2 сем\курсач бд\proect\proect\bin\Debug\proect.exe
+E:\3 курс 2 сем\курсач бд\proect\proect\bin\Debug\proect.pdb
+E:\3 курс 2 сем\курсач бд\proect\proect\bin\Debug\Oracle.DataAccess.dll
+E:\3 курс 2 сем\курсач бд\proect\proect\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.csprojResolveAssemblyReference.cache
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.Form1.resources
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.Properties.Resources.resources
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.csproj.GenerateResource.Cache
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.exe
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.pdb
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.admin.resources
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.main.resources
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.new_user.resources
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.co.resources
+E:\3 курс 2 сем\курсач бд\proect\proect\obj\Debug\proect.new_orders.resources
+E:\project\bd\proect\proect\bin\Debug\proect.exe.config
+E:\project\bd\proect\proect\obj\Debug\proect.exe
+E:\project\bd\proect\proect\obj\Debug\proect.pdb

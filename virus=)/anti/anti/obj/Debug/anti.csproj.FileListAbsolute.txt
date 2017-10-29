@@ -1,0 +1,9 @@
+E:\3 курс 2 сем\защита информации\virus=)\anti\anti\bin\Debug\anti.exe.config
+E:\3 курс 2 сем\защита информации\virus=)\anti\anti\bin\Debug\anti.exe
+E:\3 курс 2 сем\защита информации\virus=)\anti\anti\bin\Debug\anti.pdb
+E:\3 курс 2 сем\защита информации\virus=)\anti\anti\obj\Debug\anti.csprojResolveAssemblyReference.cache
+E:\3 курс 2 сем\защита информации\virus=)\anti\anti\obj\Debug\anti.Form1.resources
+E:\3 курс 2 сем\защита информации\virus=)\anti\anti\obj\Debug\anti.Properties.Resources.resources
+E:\3 курс 2 сем\защита информации\virus=)\anti\anti\obj\Debug\anti.csproj.GenerateResource.Cache
+E:\3 курс 2 сем\защита информации\virus=)\anti\anti\obj\Debug\anti.exe
+E:\3 курс 2 сем\защита информации\virus=)\anti\anti\obj\Debug\anti.pdb

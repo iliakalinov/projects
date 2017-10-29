@@ -1,0 +1,83 @@
+d:\Дмитрий\Программы\защита информации и надёжность информационных систем\Hemming\Hemming\bin\Debug\Hemming.exe
+d:\Дмитрий\Программы\защита информации и надёжность информационных систем\Hemming\Hemming\bin\Debug\Hemming.pdb
+d:\Дмитрий\Программы\защита информации и надёжность информационных систем\Hemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+d:\Дмитрий\Программы\защита информации и надёжность информационных систем\Hemming\Hemming\obj\Debug\Hemming.Form1.resources
+d:\Дмитрий\Программы\защита информации и надёжность информационных систем\Hemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+d:\Дмитрий\Программы\защита информации и надёжность информационных систем\Hemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+d:\Дмитрий\Программы\защита информации и надёжность информационных систем\Hemming\Hemming\obj\Debug\Hemming.exe
+d:\Дмитрий\Программы\защита информации и надёжность информационных систем\Hemming\Hemming\obj\Debug\Hemming.pdb
+d:\Дмитрий\Программы\защита информации и надёжность информационных систем\Hemming\Hemming\obj\Debug\Hemming.Form2.resources
+E:\Прокопович\Hemming\Hemming\obj\Debug\Hemming.exe
+E:\Прокопович\Hemming\Hemming\obj\Debug\Hemming.pdb
+E:\Прокопович\Hemming\Hemming\bin\Debug\Hemming.exe
+E:\Прокопович\Hemming\Hemming\bin\Debug\Hemming.pdb
+E:\Прокопович\Hemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+E:\Прокопович\Hemming\Hemming\obj\Debug\Hemming.Form1.resources
+E:\Прокопович\Hemming\Hemming\obj\Debug\Hemming.Form2.resources
+E:\Прокопович\Hemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+E:\Прокопович\Hemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+C:\Users\Pahan\Desktop\Hemming2\Hemming\Hemming\obj\Debug\Hemming.exe
+C:\Users\Pahan\Desktop\Hemming2\Hemming\Hemming\obj\Debug\Hemming.pdb
+C:\Users\Pahan\Desktop\Hemming2\Hemming\Hemming\bin\Debug\Hemming.exe
+C:\Users\Pahan\Desktop\Hemming2\Hemming\Hemming\bin\Debug\Hemming.pdb
+C:\Users\Pahan\Desktop\Hemming2\Hemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+C:\Users\Pahan\Desktop\Hemming2\Hemming\Hemming\obj\Debug\Hemming.Form1.resources
+C:\Users\Pahan\Desktop\Hemming2\Hemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+C:\Users\Pahan\Desktop\Hemming2\Hemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+D:\Учёба\3 курс\ЗИ\Hemming2\Hemming\Hemming\obj\Debug\Hemming.exe
+D:\Учёба\3 курс\ЗИ\Hemming2\Hemming\Hemming\obj\Debug\Hemming.pdb
+D:\Учёба\3 курс\ЗИ\Hemming2\Hemming\Hemming\obj\Debug\Hemming.Form1.resources
+D:\Учёба\3 курс\ЗИ\Hemming2\Hemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+D:\Учёба\3 курс\ЗИ\Hemming2\Hemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+D:\Учёба\3 курс\ЗИ\Hemming2\Hemming\Hemming\bin\Debug\Hemming.exe
+D:\Учёба\3 курс\ЗИ\Hemming2\Hemming\Hemming\bin\Debug\Hemming.pdb
+D:\Учёба\3 курс\ЗИ\Hemming\Hemming\obj\Debug\Hemming.exe
+D:\Учёба\3 курс\ЗИ\Hemming\Hemming\obj\Debug\Hemming.pdb
+D:\Учёба\3 курс\ЗИ\Hemming\Hemming\bin\Debug\Hemming.exe
+D:\Учёба\3 курс\ЗИ\Hemming\Hemming\bin\Debug\Hemming.pdb
+D:\Учёба\3 курс\ЗИ\Hemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+D:\Учёба\3 курс\ЗИ\Hemming\Hemming\obj\Debug\Hemming.Form1.resources
+D:\Учёба\3 курс\ЗИ\Hemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+D:\Учёба\3 курс\ЗИ\Hemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+F:\Hemming\Hemming\obj\Debug\Hemming.exe
+F:\Hemming\Hemming\obj\Debug\Hemming.pdb
+F:\Hemming\Hemming\bin\Debug\Hemming.exe
+F:\Hemming\Hemming\bin\Debug\Hemming.pdb
+F:\Hemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+F:\Hemming\Hemming\obj\Debug\Hemming.Form1.resources
+F:\Hemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+F:\Hemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+D:\Учеба\Защита инфы\Hemming\Hemming\obj\Debug\Hemming.exe
+D:\Учеба\Защита инфы\Hemming\Hemming\obj\Debug\Hemming.pdb
+T:\Учеба\Защита инфы\Hemming\Hemming\obj\Debug\Hemming.exe
+T:\Учеба\Защита инфы\Hemming\Hemming\obj\Debug\Hemming.pdb
+T:\Учеба\Защита инфы\Hemming\Hemming\bin\Debug\Hemming.exe
+T:\Учеба\Защита инфы\Hemming\Hemming\bin\Debug\Hemming.pdb
+T:\Учеба\Защита инфы\Hemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+T:\Учеба\Защита инфы\Hemming\Hemming\obj\Debug\Hemming.Form1.resources
+T:\Учеба\Защита инфы\Hemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+T:\Учеба\Защита инфы\Hemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+D:\учеба\5 сем\Hemming\Hemming\obj\Debug\Hemming.exe
+D:\учеба\5 сем\Hemming\Hemming\obj\Debug\Hemming.pdb
+D:\учеба\5 сем\Hemming\Hemming\bin\Debug\Hemming.exe
+D:\учеба\5 сем\Hemming\Hemming\bin\Debug\Hemming.pdb
+D:\учеба\5 сем\Hemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+D:\учеба\5 сем\Hemming\Hemming\obj\Debug\Hemming.Form1.resources
+D:\учеба\5 сем\Hemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+D:\учеба\5 сем\Hemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+D:\учеба\5 сем\MHemming\Hemming\obj\Debug\Hemming.exe
+D:\учеба\5 сем\MHemming\Hemming\obj\Debug\Hemming.pdb
+D:\учеба\5 сем\MHemming\Hemming\bin\Debug\Hemming.exe
+D:\учеба\5 сем\MHemming\Hemming\bin\Debug\Hemming.pdb
+D:\учеба\5 сем\MHemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+D:\учеба\5 сем\MHemming\Hemming\obj\Debug\Hemming.Form1.resources
+D:\учеба\5 сем\MHemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+D:\учеба\5 сем\MHemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache
+E:\3курс\Защита информации и\мод.хэмминг\MHemming\MHemming\Hemming\obj\Debug\Hemming.exe
+E:\3курс\Защита информации и\мод.хэмминг\MHemming\MHemming\Hemming\obj\Debug\Hemming.pdb
+E:\3курс\Защита информации и\мод.хэмминг\MHemming\MHemming\Hemming\bin\Debug\Hemming.exe
+E:\3курс\Защита информации и\мод.хэмминг\MHemming\MHemming\Hemming\bin\Debug\Hemming.pdb
+E:\3курс\Защита информации и\мод.хэмминг\MHemming\MHemming\Hemming\obj\Debug\Hemming.csprojResolveAssemblyReference.cache
+E:\3курс\Защита информации и\мод.хэмминг\MHemming\MHemming\Hemming\obj\Debug\Hemming.Form1.resources
+E:\3курс\Защита информации и\мод.хэмминг\MHemming\MHemming\Hemming\obj\Debug\Hemming.Properties.Resources.resources
+E:\3курс\Защита информации и\мод.хэмминг\MHemming\MHemming\Hemming\obj\Debug\Hemming.csproj.GenerateResource.Cache

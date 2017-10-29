@@ -1,0 +1,27 @@
+G:\Учеба\3 курс\Защита информационных систем\lab8\Peremej\Peremej\bin\Debug\Peremej.exe.config
+G:\Учеба\3 курс\Защита информационных систем\lab8\Peremej\Peremej\bin\Debug\Peremej.exe
+G:\Учеба\3 курс\Защита информационных систем\lab8\Peremej\Peremej\bin\Debug\Peremej.pdb
+G:\Учеба\3 курс\Защита информационных систем\lab8\Peremej\Peremej\obj\Debug\Peremej.csprojResolveAssemblyReference.cache
+G:\Учеба\3 курс\Защита информационных систем\lab8\Peremej\Peremej\obj\Debug\Peremej.Form1.resources
+G:\Учеба\3 курс\Защита информационных систем\lab8\Peremej\Peremej\obj\Debug\Peremej.Properties.Resources.resources
+G:\Учеба\3 курс\Защита информационных систем\lab8\Peremej\Peremej\obj\Debug\Peremej.csproj.GenerateResource.Cache
+G:\Учеба\3 курс\Защита информационных систем\lab8\Peremej\Peremej\obj\Debug\Peremej.exe
+G:\Учеба\3 курс\Защита информационных систем\lab8\Peremej\Peremej\obj\Debug\Peremej.pdb
+D:\учеба\5 сем\защита инф\Peremej\Peremej\Peremej\bin\Debug\Peremej.exe.config
+D:\учеба\5 сем\защита инф\Peremej\Peremej\Peremej\obj\Debug\Peremej.exe
+D:\учеба\5 сем\защита инф\Peremej\Peremej\Peremej\obj\Debug\Peremej.pdb
+D:\учеба\5 сем\защита инф\Peremej\Peremej\Peremej\bin\Debug\Peremej.exe
+D:\учеба\5 сем\защита инф\Peremej\Peremej\Peremej\bin\Debug\Peremej.pdb
+D:\учеба\5 сем\защита инф\Peremej\Peremej\Peremej\obj\Debug\Peremej.csprojResolveAssemblyReference.cache
+D:\учеба\5 сем\защита инф\Peremej\Peremej\Peremej\obj\Debug\Peremej.Form1.resources
+D:\учеба\5 сем\защита инф\Peremej\Peremej\Peremej\obj\Debug\Peremej.Properties.Resources.resources
+D:\учеба\5 сем\защита инф\Peremej\Peremej\Peremej\obj\Debug\Peremej.csproj.GenerateResource.Cache
+E:\3курс\Защита информации и\Peremej\Peremej\Peremej\bin\Debug\Peremej.exe.config
+E:\3курс\Защита информации и\Peremej\Peremej\Peremej\obj\Debug\Peremej.exe
+E:\3курс\Защита информации и\Peremej\Peremej\Peremej\obj\Debug\Peremej.pdb
+E:\3курс\Защита информации и\Peremej\Peremej\Peremej\bin\Debug\Peremej.exe
+E:\3курс\Защита информации и\Peremej\Peremej\Peremej\bin\Debug\Peremej.pdb
+E:\3курс\Защита информации и\Peremej\Peremej\Peremej\obj\Debug\Peremej.csprojResolveAssemblyReference.cache
+E:\3курс\Защита информации и\Peremej\Peremej\Peremej\obj\Debug\Peremej.Form1.resources
+E:\3курс\Защита информации и\Peremej\Peremej\Peremej\obj\Debug\Peremej.Properties.Resources.resources
+E:\3курс\Защита информации и\Peremej\Peremej\Peremej\obj\Debug\Peremej.csproj.GenerateResource.Cache

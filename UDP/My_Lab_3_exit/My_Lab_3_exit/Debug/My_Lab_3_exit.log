@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  My_Lab_3_exit.cpp
+e:\3курс\программирование сетевых\udp\my_lab_3_exit\my_lab_3_exit\my_lab_3_exit.cpp(8): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  My_Lab_3_exit.vcxproj -> E:\3курс\Программирование сетевых\UDP\My_Lab_3_exit\Debug\My_Lab_3_exit.exe
+  My_Lab_3_exit.vcxproj -> E:\3курс\Программирование сетевых\UDP\My_Lab_3_exit\Debug\My_Lab_3_exit.pdb (Full PDB)

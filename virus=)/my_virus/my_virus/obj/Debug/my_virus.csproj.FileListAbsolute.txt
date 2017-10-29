@@ -1,0 +1,9 @@
+E:\3 курс 2 сем\защита информации\virus=)\my_virus\my_virus\bin\Debug\my_virus.exe.config
+E:\3 курс 2 сем\защита информации\virus=)\my_virus\my_virus\bin\Debug\my_virus.exe
+E:\3 курс 2 сем\защита информации\virus=)\my_virus\my_virus\bin\Debug\my_virus.pdb
+E:\3 курс 2 сем\защита информации\virus=)\my_virus\my_virus\obj\Debug\my_virus.csprojResolveAssemblyReference.cache
+E:\3 курс 2 сем\защита информации\virus=)\my_virus\my_virus\obj\Debug\my_virus.Form1.resources
+E:\3 курс 2 сем\защита информации\virus=)\my_virus\my_virus\obj\Debug\my_virus.Properties.Resources.resources
+E:\3 курс 2 сем\защита информации\virus=)\my_virus\my_virus\obj\Debug\my_virus.csproj.GenerateResource.Cache
+E:\3 курс 2 сем\защита информации\virus=)\my_virus\my_virus\obj\Debug\my_virus.exe
+E:\3 курс 2 сем\защита информации\virus=)\my_virus\my_virus\obj\Debug\my_virus.pdb
